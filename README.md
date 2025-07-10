@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapna Chavan</h1>
-<h3 align="center">Data Analyst | ML Engineer | Cloud Architect – I build end-to-end data solutions that turn raw inputs into intelligent systems. With 5+ years of experience across SQL, Python, Power BI, and Azure, I specialize in data modeling, ML pipelines, and dashboarding. My repositories reflect work in MLOps, real-time analytics, intelligent agents, and scalable ETL—designed for clarity, reproducibility, and impact.</h3>
+<h3 align="center">Data Analyst | ML Engineer | Cloud Architect - I build end-to-end data solutions that turn raw inputs into intelligent systems. With 5+ years of experience across SQL, Python, Power BI, and Azure, I specialize in data modeling, ML pipelines, and dashboarding. My repositories reflect work in MLOps, real-time analytics, intelligent agents, and scalable ETL, designed for clarity, reproducibility, and impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnaschavan&label=Profile%20views&color=0e75b6&style=flat" alt="sapnaschavan" /> </p>
 
